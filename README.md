@@ -2,6 +2,10 @@
 
 ## I'm beginner Software Engeneer
 
+## My CV
+[!Link to my CV](https://github.com/harnyk69/controltaskNovaPoshta/blob/main/AnnaHarnyk/Anna%20Harnyk%20cv%20git.pdf)
+
+
 ## Languages and Tools
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira)
