@@ -1,9 +1,9 @@
-[![Header](https://github.com/harnyk69/harnyk69/blob/main/assets/annie.png)]
+![Header](https://github.com/harnyk69/harnyk69/blob/main/assets/annie.png)
 
 ## I'm beginner Software Engeneer
 
 ## My CV
-[!Link to my CV](https://github.com/harnyk69/controltaskNovaPoshta/blob/main/AnnaHarnyk/Anna%20Harnyk%20cv%20git.pdf)
+[Link to my CV](https://github.com/harnyk69/controltaskNovaPoshta/blob/main/AnnaHarnyk/Anna%20Harnyk%20cv%20git.pdf)
 
 
 ## Languages and Tools
@@ -18,5 +18,5 @@
 
 ## Follow ME
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=47C5FB)
-![teelegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=47C5FB)
+![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=47C5FB)
 ![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=#CC397B)
