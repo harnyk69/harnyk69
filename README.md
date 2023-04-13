@@ -12,6 +12,8 @@
 [Check list](https://docs.google.com/spreadsheets/d/1KUKS4dw7B16as34rxI4ub1URWtc6HxVs/edit?usp=sharing&ouid=113086957389449127228&rtpof=true&sd=true)
 ##
 [Test case](https://docs.google.com/spreadsheets/d/1RiUF1mbK6t0HH1OBkjGLZDux4ylVcMQp/edit?usp=sharing&ouid=113086957389449127228&rtpof=true&sd=true)
+##
+[MVP Presentation](https://docs.google.com/presentation/d/1rv-tMxBfI2qsUtoQLRXIe-ugF7Ak1qtsVRshzqKQYcE/edit?usp=sharing)
 
 ## Languages and Tools
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT)
