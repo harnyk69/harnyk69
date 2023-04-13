@@ -3,8 +3,9 @@
 ## I'm beginner Software Engeneer
 
 ## My CV
-[Link to my CV](https://github.com/harnyk69/controltaskNovaPoshta/blob/main/AnnaHarnyk/Anna%20Harnyk%20cv%20git.pdf)
-
+[Link to my CV](https://drive.google.com/file/d/1n7lvwFYiEwynAxhd16mTwEY_xT6k1PbC/view?usp=sharing)
+##
+[Link on the Cover letter](https://drive.google.com/file/d/1hAlVAI9EolftFWcADV7XfCpeV6Euwucs/view?usp=sharing)
 
 ## Languages and Tools
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT)
@@ -17,6 +18,6 @@
 
 
 ## Follow ME
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=47C5FB)
-![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=47C5FB)
-![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=#CC397B)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=47C5FB)](linkedin.com/in/annie-harnyk-1114b0235)
+[![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=47C5FB)](https://t.me/annieharnyk)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=#CC397B)](https://instagram.com/annie.harnyk?igshid=YmMyMTA2M2Y=)
