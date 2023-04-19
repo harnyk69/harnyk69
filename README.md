@@ -3,15 +3,17 @@
 ## I'm beginner Software Engeneer
 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1n7lvwFYiEwynAxhd16mTwEY_xT6k1PbC/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1ZVvPA7FTn0sULpHqvMa3_VRjWkHyJ-S_/view?usp=sharing)
 ##
-[Link on the Cover letter](https://drive.google.com/file/d/1hAlVAI9EolftFWcADV7XfCpeV6Euwucs/view?usp=sharing)
+[Link on the Cover letter](https://drive.google.com/file/d/1Vx_01E2uCuk_RPQJ5bfKhJ3kRz_Im-KW/view?usp=sharing)
 
 ## Test documentation
 ##
 [Check list](https://docs.google.com/spreadsheets/d/1KUKS4dw7B16as34rxI4ub1URWtc6HxVs/edit?usp=sharing&ouid=113086957389449127228&rtpof=true&sd=true)
 ##
 [Test case](https://docs.google.com/spreadsheets/d/1RiUF1mbK6t0HH1OBkjGLZDux4ylVcMQp/edit?usp=sharing&ouid=113086957389449127228&rtpof=true&sd=true)
+##
+[Bug Reports](https://docs.google.com/spreadsheets/d/136YhULXNaSWdBK9_-z5RyyZu0IYAoA38/edit?usp=sharing&ouid=113086957389449127228&rtpof=true&sd=true)
 ##
 [MVP Presentation](https://docs.google.com/presentation/d/1rv-tMxBfI2qsUtoQLRXIe-ugF7Ak1qtsVRshzqKQYcE/edit?usp=sharing)
 
